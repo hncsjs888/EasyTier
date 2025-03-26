@@ -1,4 +1,4 @@
-const defaultApiHost = 'https://config-server.easytier.cn';
+const defaultApiHost = 'https://config-server.7803k.com';
 
 interface ApiHost {
     value: string;
